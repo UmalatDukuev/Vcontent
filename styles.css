@@ -10,16 +10,16 @@ input[type="login"]{
     border-width: 1px;
     border-color: #FF8364;
 
-    width: 240px;
-    height: 49px;
+    width: 25vw;
+    height: 10vh;
 }
 
 input[type="login"]::placeholder{
-    font-size: 10 px;
+    font-size: 1rem;
 }
 
 input[type="password"]::placeholder{
-    font-size: 10 px;
+    font-size: 1rem;
 }
 
 
@@ -30,33 +30,11 @@ input[type="password"]{
     border-width: 1px;
     border-color: #FF8364;
 
-    width: 240px;
-    height: 49px;
+    width: 25vw;
+    height: 10vh;
 }
 
 input[type="submit"]{
-    font-size: 16px;
-    color: white;
-    background-color:  #FF4D4D;
-    margin: 10px;
-    border-radius: 12px;
-    border-width: 1px;
-    border-color: #FF8364;
-
-    width: 83px;
-    height: 49px;
-}
-
-.forgotpassword{
-    font-size: 16px;
-    text-decoration: None;
-    color: #FF4D4D;
-
-    width: 129px;
-    height: 19px;
-}
-
-input[type="submitreg"]{
     text-align: center;
     font-size: 16px;
     color: white;
@@ -66,6 +44,27 @@ input[type="submitreg"]{
     border-width: 1px;
     border-color: #FF8364;
 
-    width: 172px;
-    height: 49px;
+    width: 15vw;
+    height: 10vh;
+}
+
+.forgotpassword{
+    font-size: 1rem;
+    text-decoration: None;
+    color: #FF4D4D;
+}
+
+input[type="submitreg"]{
+    padding-left: 10px;
+    text-align: center;
+    font-size: 1rem;
+    color: white;
+    background-color:  #FF4D4D;
+    margin: 10px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: #FF8364;
+
+    width: 25vw;
+    height: 10vh;
 }
