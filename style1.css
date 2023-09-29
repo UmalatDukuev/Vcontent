@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+
+}
+
+input[type="login"]{
+
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: #FF8364;
+
+    width: 25vw;
+    height: 10vh;
+}
