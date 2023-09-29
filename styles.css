@@ -1,0 +1,71 @@
+.container {
+    text-align: center;
+    margin: 0 auto;
+}
+
+input[type="login"]{
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: #FF8364;
+
+    width: 240px;
+    height: 49px;
+}
+
+input[type="login"]::placeholder{
+    font-size: 10 px;
+}
+
+input[type="password"]::placeholder{
+    font-size: 10 px;
+}
+
+
+input[type="password"]{
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: #FF8364;
+
+    width: 240px;
+    height: 49px;
+}
+
+input[type="submit"]{
+    font-size: 16px;
+    color: white;
+    background-color:  #FF4D4D;
+    margin: 10px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: #FF8364;
+
+    width: 83px;
+    height: 49px;
+}
+
+.forgotpassword{
+    font-size: 16px;
+    text-decoration: None;
+    color: #FF4D4D;
+
+    width: 129px;
+    height: 19px;
+}
+
+input[type="submitreg"]{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    background-color:  #FF4D4D;
+    margin: 10px;
+    border-radius: 12px;
+    border-width: 1px;
+    border-color: #FF8364;
+
+    width: 172px;
+    height: 49px;
+}
